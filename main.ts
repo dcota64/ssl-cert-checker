@@ -1,4 +1,4 @@
-// === SSL Checker API en Deno Deploy ===
+// === SSL Checker API en Deno Deploy === Editing file
 // Obtiene IP, fechas del certificado, validez y si tiene HTTPS.
 
 Deno.serve(async (req) => {
